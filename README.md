@@ -1,1 +1,1 @@
-# public_repo_coursera
+Pubic repository for cousera peer assignment
